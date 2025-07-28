@@ -17,7 +17,7 @@ I'm a 4th-year Computer Science student passionate about:
 - 🔹 [Resume Chatbot](https://ashesh88.github.io/Resume-Chatbot/)
 - 🔹 [Portfolio](https://ashesh88.github.io/portfolio/)
 - 🔹 [RBS Furniture](https://rbsfurnitures.in/)
-- 🔹 [Sales Data Analysis](https://github.com/Ashesh88/Sales-Analysis)
+- 🔹 [Sales Data Analysis](https://github.com/Ashesh88/Sales-Data-Analysis-Dashboard)
 
 ---
 
