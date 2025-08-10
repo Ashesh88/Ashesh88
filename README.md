@@ -9,7 +9,7 @@
 💻 Data Analytics | 🌐 Web Developer
   
 - 🌱 I’m currently learning  **Machine Learning**  
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ashesh88)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Ashesh88?tab=repositories)
 
 ---
 ### 🌍 Socials:
