@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashesh_146)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asheshsingh01/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/asheshh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=About.me&logoColor=white)](https://ashesh88.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=About.me&logoColor=white)](https://asheshh.netlify.app/)
 
 
 ---
