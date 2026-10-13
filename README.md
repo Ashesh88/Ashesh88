@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/meteor-banner.svg" width="100%" alt="Ashesh Animated Meteor Banner" />
+
+  <br />
+  <br />
 
 # Ashesh Singh
 
