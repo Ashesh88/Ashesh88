@@ -1,75 +1,123 @@
-# 👋 Hi, I'm Ashesh Singh
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Ashesh%20Singh&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Automation&descFontSize=20&descAlignY=60&fontColor=ffffff" width="100%" />
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Ashesh88.Ashesh88&left_color=gray&right_color=blue)
-<a href="https://github.com/ashesh88" target="_blank">
-  <img src="https://img.shields.io/github/followers/ashesh88?label=Follow&style=social" alt="Follow on GitHub" />
-</a>
+  <p align="center">
+    <a href="https://visitor-badge.laobi.icu/badge?page_id=Ashesh88.Ashesh88&left_color=0f172a&right_color=6366f1">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashesh88.Ashesh88&left_color=0f172a&right_color=6366f1" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/Ashesh88?tab=followers">
+      <img src="https://img.shields.io/github/followers/Ashesh88?label=Followers&style=flat&color=6366f1&labelColor=0f172a" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/Ashesh88?tab=stars">
+      <img src="https://img.shields.io/github/stars/Ashesh88?label=Total%20Stars&style=flat&color=f59e0b&labelColor=0f172a" alt="GitHub Stars" />
+    </a>
+  </p>
 
+  <p align="center">
+    <strong>Building fast, scalable full-stack web applications, data-driven systems, and modern SaaS tools.</strong>
+  </p>
 
-💻 Data Analytics | 🌐 Web Developer
-  
-- 🌱 I’m currently learning  **Machine Learning**  
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Ashesh88?tab=repositories)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/asheshsingh01/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://asheshh.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://leetcode.com/u/asheshh/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://instagram.com/ashesh_146" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:asheshsingh35@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
----
-### 🌍 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashesh_146)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asheshsingh01/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/asheshh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=About.me&logoColor=white)](https://asheshh.netlify.app/)
-
-
----
-### 💻 Tech Stack:
-
-#### 🖥️ Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-
-#### 🎨 Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-#### ⚙️ Backend:
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
-#### 🗄️ Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 📊 Data Analytics Tools:
-![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00457C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
-
-#### 🛠️ Tools:
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<br />
 
 ---
-### 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashesh88&theme=radical&hide_border=false&layout=compact)
 
+### 🚀 About Me
 
+```javascript
+const ashesh = {
+  pronouns: "He/Him",
+  focus: ["Full-Stack Engineering", "Data Analytics", "AI/Automation Tools"],
+  coreStack: ["React", "Next.js", "Node.js", "Python", "Tailwind CSS"],
+  currentlyLearning: "Production Machine Learning & Agentic Systems",
+  hobbies: ["Building side SaaS", "Solving DSA", "UI/UX Micro-Interactions"],
+  askMeAbout: ["Web Architecture", "Dashboard Design", "Fast Prototyping"],
+};
+```
 
-_Thanks for visiting!_ 🚀
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css" alt="Languages" />
+</p>
+
+#### 🎨 Frontend & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,materialui,figma" alt="Frontend" />
+</p>
+
+#### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,php" alt="Backend" />
+</p>
+
+#### 🗄️ Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Databases" />
+</p>
+
+#### 📊 Data Analytics & Science
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+</p>
+
+#### 🧰 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,vercel,netlify" alt="DevOps and Tools" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashesh88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Ashesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashesh88&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashesh88&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+</div>
+
+---
+
+### 💡 Featured Highlights
+- ⚡ **Lead Finder & Agency CRM**: Full-stack Google Maps lead discovery engine with deal scoring, live phone mockups, and WhatsApp CRM.
+- 📈 **Interactive Dashboards**: End-to-end data pipelines combining Python analysis with modern frontend UI.
+- 🎯 Always open to collaborating on high-impact projects and innovative web platforms.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" />
+</div>
