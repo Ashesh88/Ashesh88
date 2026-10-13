@@ -112,7 +112,7 @@ const ashesh = {
 ### Option 2: Retro Pixel Art Coding Vibe
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Coffee_Code.gif" width="280" alt="Pixel Coder" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Pixel Coder" />
 </div>
 
 <br />
