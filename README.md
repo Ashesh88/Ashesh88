@@ -95,8 +95,12 @@ const ashesh = {
 
 </div>
 
----
+<br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/fire-glow.svg" width="100%" alt="Fire Glow" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Dev Quote" />
+  
+  <p align="center">
+    <sub>Crafted with passion for clean code & scalable systems</sub>
+  </p>
 </div>
