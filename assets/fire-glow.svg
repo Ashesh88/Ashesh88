@@ -1,0 +1,66 @@
+<svg fill="none" viewBox="0 0 1200 120" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fireGlowGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff1a1a">
+        <animate attributeName="stop-color" values="#ff1a1a;#ff7700;#ffcc00;#ff1a1a" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="35%" stop-color="#ff5500">
+        <animate attributeName="stop-color" values="#ff5500;#ff0055;#ff9900;#ff5500" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="70%" stop-color="#ff9900">
+        <animate attributeName="stop-color" values="#ff9900;#ff3300;#ffdd00;#ff9900" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ffee55">
+        <animate attributeName="stop-color" values="#ffee55;#ff5500;#ff2200;#ffee55" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="fireInner" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffcc00" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#ff4400" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#1a0000" stop-opacity="0" />
+    </linearGradient>
+
+    <filter id="fireGlow" x="-20%" y="-40%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="glow1" />
+      <feGaussianBlur stdDeviation="22" result="glow2" />
+      <feMerge>
+        <feMergeNode in="glow2" />
+        <feMergeNode in="glow1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g filter="url(#fireGlow)">
+    <!-- Base Ambient Fire Glow -->
+    <path fill="url(#fireInner)" opacity="0.8">
+      <animate attributeName="d" dur="3s" repeatCount="indefinite"
+        values="
+          M0,120 L0,70 Q150,30 300,65 T600,45 T900,60 T1200,40 L1200,120 Z;
+          M0,120 L0,50 Q150,65 300,35 T600,60 T900,40 T1200,65 L1200,120 Z;
+          M0,120 L0,70 Q150,30 300,65 T600,45 T900,60 T1200,40 L1200,120 Z
+        " />
+    </path>
+
+    <!-- Flame Wave Layer 1 -->
+    <path fill="url(#fireGlowGrad)" opacity="0.75">
+      <animate attributeName="d" dur="2.4s" repeatCount="indefinite"
+        values="
+          M0,120 L0,75 C200,20 400,90 600,40 C800,-10 1000,70 1200,35 L1200,120 Z;
+          M0,120 L0,45 C200,85 400,25 600,75 C800,25 1000,90 1200,55 L1200,120 Z;
+          M0,120 L0,75 C200,20 400,90 600,40 C800,-10 1000,70 1200,35 L1200,120 Z
+        " />
+    </path>
+
+    <!-- Flame Wave Layer 2 (Hotter Ember Core) -->
+    <path fill="url(#fireGlowGrad)" opacity="0.9">
+      <animate attributeName="d" dur="1.8s" repeatCount="indefinite"
+        values="
+          M0,120 L0,90 Q120,45 240,85 T480,50 T720,80 T960,45 T1200,75 L1200,120 Z;
+          M0,120 L0,65 Q120,85 240,45 T480,80 T720,50 T960,75 T1200,55 L1200,120 Z;
+          M0,120 L0,90 Q120,45 240,85 T480,50 T720,80 T960,45 T1200,75 L1200,120 Z
+        " />
+    </path>
+  </g>
+</svg>

@@ -95,53 +95,8 @@ const ashesh = {
 
 </div>
 
-### Activity & Statistics
-
-<div align="center">
-  <table border="0" style="width: 100%; border: none;">
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashesh88&theme=github_dark" width="100%" alt="Profile Details" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashesh88&theme=github_dark" width="100%" alt="Repos Per Language" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashesh88&theme=github_dark" width="100%" alt="Most Commit Language" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <a href="https://leetcode.com/u/asheshh/" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/asheshh?theme=dark&font=Fira%20Code&border=0" width="100%" alt="LeetCode Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashesh88/Ashesh88/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashesh88/Ashesh88/output/dist/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/output/dist/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
----
-
-### Featured Work
-
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| **Lead Finder & CRM** | `React 19` `Express` `Tailwind` `Serper API` | Google Maps lead finder without websites, deal opportunity scoring (0-100), phone prototype mockups & WhatsApp CRM pipeline. | [Repository](https://github.com/Ashesh88/Lead_Ashesh) |
-| **Interactive Analytics Platform** | `Python` `Pandas` `Power BI` `React` | End-to-end data processing pipelines transforming raw datasets into dynamic business intelligence dashboards. | [Repositories](https://github.com/Ashesh88?tab=repositories) |
-| **Full-Stack Web Platforms** | `Next.js` `Node.js` `MongoDB` `FastAPI` | Production-ready full-stack applications with modular API architecture, clean auth flows, and responsive UI. | [Explore All](https://github.com/Ashesh88?tab=repositories) |
-
 ---
 
 <div align="center">
-  <sub>ashesh@dev:~$ echo "Continuous improvement through clean architecture & code."</sub>
+  <img src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/fire-glow.svg" width="100%" alt="Fire Glow" />
 </div>
