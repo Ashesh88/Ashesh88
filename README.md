@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ashesh Singh 👋
+# Ashesh Singh
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Data+Analytics+%26+Automation;Building+Scalable+Web+Apps+%26+SaaS+Tools" alt="Typing SVG" />
@@ -40,46 +40,45 @@
 
 ---
 
-### 🚀 About Me
+### Overview
 
 ```javascript
 const ashesh = {
-  pronouns: "He/Him",
-  focus: ["Full-Stack Engineering", "Data Analytics", "AI/Automation Tools"],
+  focus: ["Full-Stack Engineering", "Data Analytics", "AI / Automation Systems"],
   coreStack: ["React", "Next.js", "Node.js", "Python", "Tailwind CSS"],
-  currentlyLearning: "Production Machine Learning & Agentic Systems",
-  hobbies: ["Building side SaaS", "Solving DSA", "UI/UX Micro-Interactions"],
-  askMeAbout: ["Web Architecture", "Dashboard Design", "Fast Prototyping"],
+  currentlyExploring: "Production Machine Learning & Agentic Systems",
+  interests: ["Building SaaS Tools", "Data Structures & Algorithms", "Clean System Architecture"],
+  collaborations: ["Web Platforms", "Data Dashboards", "Rapid Prototyping"],
 };
 ```
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### Technical Skills & Tools
 
 <div align="center">
 
-#### 💻 Languages
+#### Core Languages
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css" alt="Languages" />
 </p>
 
-#### 🎨 Frontend & Design
+#### Frontend & UI
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,materialui,figma" alt="Frontend" />
 </p>
 
-#### ⚙️ Backend & APIs
+#### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,php" alt="Backend" />
 </p>
 
-#### 🗄️ Databases & Storage
+#### Databases & Caching
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Databases" />
 </p>
 
-#### 📊 Data Analytics & Science
+#### Data Analytics & Visualization
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -89,7 +88,7 @@ const ashesh = {
   <img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
-#### 🧰 DevOps & Tools
+#### DevOps & Workflow
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,vercel,netlify" alt="DevOps and Tools" />
 </p>
@@ -98,7 +97,7 @@ const ashesh = {
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashesh88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Ashesh's GitHub Stats" />
@@ -111,7 +110,7 @@ const ashesh = {
 
 ---
 
-### 💡 Featured Highlights
-- ⚡ **Lead Finder & Agency CRM**: Full-stack Google Maps lead discovery engine with deal scoring, live phone mockups, and WhatsApp CRM.
-- 📈 **Interactive Dashboards**: End-to-end data pipelines combining Python analysis with modern frontend UI.
-- 🎯 Always open to collaborating on high-impact projects and innovative web platforms.
+### Featured Work
+- **Lead Finder & Agency CRM**: Full-stack Google Maps business prospecting engine with deal opportunity scoring, responsive mobile storefront mockups, and WhatsApp CRM.
+- **Data Analytics Dashboards**: Interactive analytical workflows combining Python processing with modern front-end interfaces.
+- **Custom Web Platforms**: Scalable, high-performance web applications built with React, Next.js, and Node.js.
