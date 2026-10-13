@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/meteor-banner.svg" width="100%" alt="Ashesh Animated Meteor Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/github-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/github-snake-dark.svg" width="100%" />
+  </picture>
 
   <br />
   <br />
@@ -106,5 +110,5 @@ const ashesh = {
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" alt="Cute Cat Animation" />
+  <img src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/meteor-banner.svg" width="100%" alt="Ashesh Animated Meteor Banner" />
 </div>
