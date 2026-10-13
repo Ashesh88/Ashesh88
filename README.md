@@ -1,12 +1,4 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/github-snake-dark.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/github-snake-dark.svg" width="100%" />
-  </picture>
-
-  <br />
-  <br />
 
 # Ashesh Singh
 
