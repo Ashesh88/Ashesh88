@@ -97,58 +97,10 @@ const ashesh = {
 
 <br />
 
----
-
-### Option 1: Cyberpunk Neon Aurora Wave
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=120&section=footer" width="100%" alt="Neon Aurora Wave" />
-</div>
-
 <br />
 
 ---
 
-### Option 2: Retro Pixel Art Coding Vibe
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Pixel Coder" />
-</div>
-
-<br />
-
----
-
-### Option 3: Matrix Digital Stream
-
-<div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&multiline=true&width=700&height=90&lines=01000001+01010011+01001000+01000101+01010011+01001000;%2F%2F+SYSTEM+READY%3A+continuous+integration+active...;%3E+root%40ashesh%3A~%23+executing+clean_architecture.sh" alt="Matrix Stream" />
-  </a>
-</div>
-
-<br />
-
----
-
-### Option 4: Developer Terminal Routine Loop
-
-<div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=%24+ashesh+--status;%3E+Brewing+fresh+coffee...+%E2%98%95;%3E+Shipping+scalable+code...+%F0%9F%9A%80;%3E+Refactoring+architecture...+%E2%9A%A1;%3E+Repeat+loop..." alt="Terminal Loop" />
-  </a>
-</div>
-
-<br />
-
----
-
-### Option 5: Minimal Dynamic Quote Card
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Dev Quote" />
-  
-  <p align="center">
-    <sub>Crafted with passion for clean code & scalable systems</sub>
-  </p>
+  <img src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/cat-walking.gif" width="220" alt="Walking Cat" />
 </div>
