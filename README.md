@@ -95,17 +95,29 @@ const ashesh = {
 
 </div>
 
----
-
 ### Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashesh88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Ashesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashesh88&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashesh88&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <table border="0" style="width: 100%; border: none;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashesh88&theme=github_dark" width="100%" alt="Profile Details" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashesh88&theme=github_dark" width="100%" alt="Repos Per Language" />
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashesh88&theme=github_dark" width="100%" alt="Most Commit Language" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <a href="https://leetcode.com/u/asheshh/" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/asheshh?theme=dark&font=Fira%20Code&border=0" width="100%" alt="LeetCode Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
