@@ -102,5 +102,5 @@ const ashesh = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/main/assets/cat-walking.gif" width="220" alt="Walking Cat" />
+  <img src="assets/cat-walking.gif" width="240" alt="Walking Cat" />
 </div>
