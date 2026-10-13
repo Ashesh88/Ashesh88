@@ -1,42 +1,42 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Ashesh%20Singh&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Automation&descFontSize=20&descAlignY=60&fontColor=ffffff" width="100%" />
 
-  <p align="center">
-    <a href="https://visitor-badge.laobi.icu/badge?page_id=Ashesh88.Ashesh88&left_color=0f172a&right_color=6366f1">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashesh88.Ashesh88&left_color=0f172a&right_color=6366f1" alt="Profile Views" />
-    </a>
-    <a href="https://github.com/Ashesh88?tab=followers">
-      <img src="https://img.shields.io/github/followers/Ashesh88?label=Followers&style=flat&color=6366f1&labelColor=0f172a" alt="GitHub Followers" />
-    </a>
-    <a href="https://github.com/Ashesh88?tab=stars">
-      <img src="https://img.shields.io/github/stars/Ashesh88?label=Total%20Stars&style=flat&color=f59e0b&labelColor=0f172a" alt="GitHub Stars" />
-    </a>
-  </p>
+# Hi there, I'm Ashesh Singh 👋
 
-  <p align="center">
-    <strong>Building fast, scalable full-stack web applications, data-driven systems, and modern SaaS tools.</strong>
-  </p>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Data+Analytics+%26+Automation;Building+Scalable+Web+Apps+%26+SaaS+Tools" alt="Typing SVG" />
+</a>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/asheshsingh01/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://asheshh.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://leetcode.com/u/asheshh/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://instagram.com/ashesh_146" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:asheshsingh35@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Ashesh88.Ashesh88&left_color=0f172a&right_color=6366f1">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ashesh88.Ashesh88&left_color=0f172a&right_color=6366f1" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Ashesh88?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ashesh88?label=Followers&style=flat&color=6366f1&labelColor=0f172a" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Ashesh88?tab=stars">
+    <img src="https://img.shields.io/github/stars/Ashesh88?label=Total%20Stars&style=flat&color=f59e0b&labelColor=0f172a" alt="GitHub Stars" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/asheshsingh01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://asheshh.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/asheshh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://instagram.com/ashesh_146" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:asheshsingh35@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 </div>
-
-<br />
 
 ---
 
@@ -115,9 +115,3 @@ const ashesh = {
 - ⚡ **Lead Finder & Agency CRM**: Full-stack Google Maps lead discovery engine with deal scoring, live phone mockups, and WhatsApp CRM.
 - 📈 **Interactive Dashboards**: End-to-end data pipelines combining Python analysis with modern frontend UI.
 - 🎯 Always open to collaborating on high-impact projects and innovative web platforms.
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" />
-</div>
