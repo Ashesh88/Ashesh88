@@ -120,9 +120,28 @@ const ashesh = {
   </table>
 </div>
 
+### Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashesh88/Ashesh88/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashesh88/Ashesh88/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ashesh88/Ashesh88/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 ---
 
 ### Featured Work
-- **Lead Finder & Agency CRM**: Full-stack Google Maps business prospecting engine with deal opportunity scoring, responsive mobile storefront mockups, and WhatsApp CRM.
-- **Data Analytics Dashboards**: Interactive analytical workflows combining Python processing with modern front-end interfaces.
-- **Custom Web Platforms**: Scalable, high-performance web applications built with React, Next.js, and Node.js.
+
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **Lead Finder & CRM** | `React 19` `Express` `Tailwind` `Serper API` | Google Maps lead finder without websites, deal opportunity scoring (0-100), phone prototype mockups & WhatsApp CRM pipeline. | [Repository](https://github.com/Ashesh88/Lead_Ashesh) |
+| **Interactive Analytics Platform** | `Python` `Pandas` `Power BI` `React` | End-to-end data processing pipelines transforming raw datasets into dynamic business intelligence dashboards. | [Repositories](https://github.com/Ashesh88?tab=repositories) |
+| **Full-Stack Web Platforms** | `Next.js` `Node.js` `MongoDB` `FastAPI` | Production-ready full-stack applications with modular API architecture, clean auth flows, and responsive UI. | [Explore All](https://github.com/Ashesh88?tab=repositories) |
+
+---
+
+<div align="center">
+  <sub>ashesh@dev:~$ echo "Continuous improvement through clean architecture & code."</sub>
+</div>
